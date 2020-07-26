@@ -2,4 +2,5 @@
 
 🔭 I’m currently working on IBM.
 🌱 I’m currently learning Python, Shell Script, Docker, ... and continue with R, Statistic, ...
-📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoopires/)](https://www.linkedin.com/in/thiagoopires/) [![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fth14600)](https://twitter.com/th14600)
+📫 How to reach me: [![Twitter](https://img.shields.io/twitter/url?color=%231DA1F2&label=Twitter&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https://twitter.com//th14600)](https://twitter.com//th14600)
+[![LinkedIn](https://img.shields.io/twitter/url?color=%230072b1&label=Linkedin&logo=linkedin&logoColor=%230072b1&style=flat-square&url=http://linkedin.com/in/thiagoopires)](http://linkedin.com/in/thiagoopires)
