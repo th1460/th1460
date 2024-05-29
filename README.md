@@ -7,4 +7,4 @@ Interests now:
 - Docker
 - Kubernetes
 - Svelte
-- R 💙
+- R
